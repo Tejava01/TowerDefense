@@ -1,0 +1,2129 @@
+fileFormatVersion: 2
+guid: d20ed8f782dc68d47b87260407575a99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karyl_Attack2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec256c3d98b7094bbfa9ccbb8052833
+      internalID: -354859302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf67efae29b2ef4791f905145a21527
+      internalID: 2082133174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_2
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63cbde153d1b024c98f218485f5f5ec
+      internalID: 240335827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_3
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e51cc75cf0ded4c9c84bf4f166e55e
+      internalID: 1307436695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_4
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4a045943320e7489078ee07dab09bd
+      internalID: -1753820677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_5
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c98cd69309dfdf43822ddccd65b5a4b
+      internalID: 1685494184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_6
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc507b79e14f3714f8d3f19f061f2d90
+      internalID: 1733200177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_7
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396cebe0f4015f8479d0e6721eba8256
+      internalID: -765937694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_8
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d7a66675e8ce48a78397d8e98dce3
+      internalID: -1034285412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_9
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 4428
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090eb24773b92ef4eabc78997d8f35f3
+      internalID: -364314554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53c53142c0d90744b08bb81bb0921b3
+      internalID: -1907308748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8afef2f7f47fbe4bbe6aaf20c8eae9f
+      internalID: 40645657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_12
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad728be6da2109b4895a2418dd4c6ad0
+      internalID: 657525746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_13
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83dc97a2a7ff4c4cbe02623325c13d0
+      internalID: -1626239375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_14
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92acc726dc8501c4fbcd8c3fd7b4bb0e
+      internalID: -396616986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_15
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e4d64cdb441d42a8b08358de23f62
+      internalID: 117789465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_16
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d68514e0765024d8b13f3ccaa06dd0
+      internalID: -1427291388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_17
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2553d4d8ff43074ea3d4dcae400fd4c
+      internalID: 646801750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_18
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e854099e2bf32c4d87cdd925ad3d47f
+      internalID: 1964822429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_19
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 3936
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51ae4bc82c643469a74557e4cd7ddb
+      internalID: -155895972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd01b84ba78de4487873038d4d704d
+      internalID: 1279504655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36288b710ced2347a3693cbff55fb2d
+      internalID: -1796541361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_22
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9f0c8a14d477a42881cd74ce9df00a
+      internalID: -1973062921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_23
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04878b30e119b0847857cfa45f0efaee
+      internalID: 1976193592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_24
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180e656c0ace504091948706210cca1
+      internalID: -509396721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_25
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b7c8bcfdb673f4abf67fd0dfa92c7d
+      internalID: 1179584865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_26
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ada49ce7c0814d94c29e2e3ff9360
+      internalID: -805164698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_27
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a06c23116bac418ef241da74eca6a
+      internalID: 1929106011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_28
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802a6e5338bff24a807c77765fb9fd1
+      internalID: -1926513639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_29
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 3444
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53640986abf62e844b38019e50121a4a
+      internalID: 1743389050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c184353edf117f3499834986fae0040e
+      internalID: 1162874331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd03bffcd16d3da40861118d388deb3d
+      internalID: 847240401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_32
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c957ee292e50468e5b21c6b61443e
+      internalID: -1379119154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_33
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f2fd1b4917894aa63fd19f29aa719
+      internalID: 1268452522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_34
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9353813b67d701f4aaa550b18b27106f
+      internalID: 1753777921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_35
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f469c7fd837f624e938e2ef75eeeca5
+      internalID: -118519231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_36
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a1fd000587b449b76d9b6895da565
+      internalID: -1630518710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_37
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e38b1e555909644f9db506749b88348
+      internalID: -134680021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_38
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c2769178732f409282499924be8e1
+      internalID: 367425533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_39
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 2952
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9ba05a7d64bb42b2610e661598837
+      internalID: 1006805650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559d0e20dfc9e94a9db6b024cad0190
+      internalID: 1741484521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_41
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d83a44977f3ca45af59a4c31900163
+      internalID: 723065047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_42
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c7428881f824499700e9eb59b3051
+      internalID: 937864078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_43
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b73fdaeaa3124eb32f9eb02c41cf5
+      internalID: 1939455502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_44
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487dcd34d37cdc04a85ae6297f51ff7c
+      internalID: -1683083900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_45
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1c8df73c1ca64cb90616e08d5c389
+      internalID: 122919084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_46
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ea0743142987f44aaea2e5d8084179
+      internalID: 1247859649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_47
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b4d95d25427544b6f901536470e9a
+      internalID: 719163509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_48
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464e466081bbc3d47b7ba07ec6b1f9e9
+      internalID: 535000259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_49
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575aeaa7f353a9d41bb0e02b9f1c173b
+      internalID: -1513237534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec8a086b50afe4584baafa0efe2b20
+      internalID: -2015528514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_51
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067eb942fbf3cf044acb62968cbbf3f2
+      internalID: 1275513283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_52
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2935622e50cbe1e47884e908aedd5a82
+      internalID: -681237826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_53
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64127e2e72ecc34ea424487ab77335b
+      internalID: -254067749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_54
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ffd169e1c23bf40863e99a80e16668
+      internalID: -854856546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_55
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aee9b634d3ac84d8a8c2001a512c29
+      internalID: -40755184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_56
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62343ce24d0534395398d0e426f23d
+      internalID: 1624313153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_57
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc2dc5736cbfb94ca797428fe4ca395
+      internalID: 1006679859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_58
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80575152f9b7ab74488b041c730c2a32
+      internalID: -722039052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_59
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c1c63a9bf83b4d8512905ed84a0c0
+      internalID: 156242298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3e44cf57461e40bce769a15aa0555
+      internalID: -329875591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_61
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b6f248ee6bc745a29c4fbfcfa31bb
+      internalID: 122785883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_62
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18fe60969a5aa745a4ab65d3a99544b
+      internalID: 828560439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_63
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19016cc8761298946824342e6d611c68
+      internalID: -1488143438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_64
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5de649fe3989374ba07a5c1bacf3dd4
+      internalID: 1311912731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_65
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21ccb63de0f928469208eb5e0efa73f
+      internalID: 1638901074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_66
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc818b069831e524fbd86cdfedc2ea2b
+      internalID: 948008392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_67
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e584448ca45f984ca7718bfc8654e5e
+      internalID: 152760134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_68
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74779e7820f5e0d489540a63a996c9c7
+      internalID: -802110301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_69
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b4d5a60a27b6d4abdb59df0ba6c15d
+      internalID: -882282311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5297996a38a7be489c9028c6d5ae5c2
+      internalID: -434216954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_71
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29b0aa1648485c4f8a830f641e838ef
+      internalID: 2116231368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_72
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31624dc0cb2c7d541b52efb5dbc3cb13
+      internalID: -1017366053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_73
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777c113d70e0aa14c988ae0f4042ec08
+      internalID: 1926806660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_74
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3b62a9a84551c408e3905eeb666642
+      internalID: -834873636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_75
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b9759c021a260478161b5bb8f4d35e
+      internalID: -1442058613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_76
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f988d5106b7c2478d11eee27e2c3be
+      internalID: -1500773706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_77
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8848b5c2987cb6447abb65d98e2681e5
+      internalID: 2062963626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_78
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ee77404236ca48bd7705852c89a9c
+      internalID: -408774763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_79
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770aac33e5f3a9344ba2d7604aed5497
+      internalID: -595126139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae2c9b8f60dfc45ab2e833c287436f
+      internalID: 594129291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_81
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61515333af064e4bba0f7faf74fe887
+      internalID: -1315368774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_82
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e89fa534fde44faa9ecd0bff7ffab
+      internalID: -1319248747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_83
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7ab872b9a2ee4c813ce3b75f3c7b1
+      internalID: -1066630410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_84
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764c1be9dccb9f74398f5c1eb0971629
+      internalID: 392064770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_85
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac6e1b71d142f4d8b2eb103b93a4b8
+      internalID: 1001037035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_86
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f56cd6bf62354ab264dadc2e72d62
+      internalID: -945866457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_87
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63493370fc6f5cf42b1e22840143f690
+      internalID: -1799470381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_88
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d874e062a31bbfb4a8c4d3ca9ef650cf
+      internalID: -1053831376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_89
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4c578027a2d344481dc2e11266a0ca
+      internalID: -1280432354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Attack2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58166cb9ed5fc5444840f4646abe9a70
+      internalID: -1150648307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karyl_Attack2_0: -354859302
+      Karyl_Attack2_1: 2082133174
+      Karyl_Attack2_10: -1907308748
+      Karyl_Attack2_11: 40645657
+      Karyl_Attack2_12: 657525746
+      Karyl_Attack2_13: -1626239375
+      Karyl_Attack2_14: -396616986
+      Karyl_Attack2_15: 117789465
+      Karyl_Attack2_16: -1427291388
+      Karyl_Attack2_17: 646801750
+      Karyl_Attack2_18: 1964822429
+      Karyl_Attack2_19: -155895972
+      Karyl_Attack2_2: 240335827
+      Karyl_Attack2_20: 1279504655
+      Karyl_Attack2_21: -1796541361
+      Karyl_Attack2_22: -1973062921
+      Karyl_Attack2_23: 1976193592
+      Karyl_Attack2_24: -509396721
+      Karyl_Attack2_25: 1179584865
+      Karyl_Attack2_26: -805164698
+      Karyl_Attack2_27: 1929106011
+      Karyl_Attack2_28: -1926513639
+      Karyl_Attack2_29: 1743389050
+      Karyl_Attack2_3: 1307436695
+      Karyl_Attack2_30: 1162874331
+      Karyl_Attack2_31: 847240401
+      Karyl_Attack2_32: -1379119154
+      Karyl_Attack2_33: 1268452522
+      Karyl_Attack2_34: 1753777921
+      Karyl_Attack2_35: -118519231
+      Karyl_Attack2_36: -1630518710
+      Karyl_Attack2_37: -134680021
+      Karyl_Attack2_38: 367425533
+      Karyl_Attack2_39: 1006805650
+      Karyl_Attack2_4: -1753820677
+      Karyl_Attack2_40: 1741484521
+      Karyl_Attack2_41: 723065047
+      Karyl_Attack2_42: 937864078
+      Karyl_Attack2_43: 1939455502
+      Karyl_Attack2_44: -1683083900
+      Karyl_Attack2_45: 122919084
+      Karyl_Attack2_46: 1247859649
+      Karyl_Attack2_47: 719163509
+      Karyl_Attack2_48: 535000259
+      Karyl_Attack2_49: -1513237534
+      Karyl_Attack2_5: 1685494184
+      Karyl_Attack2_50: -2015528514
+      Karyl_Attack2_51: 1275513283
+      Karyl_Attack2_52: -681237826
+      Karyl_Attack2_53: -254067749
+      Karyl_Attack2_54: -854856546
+      Karyl_Attack2_55: -40755184
+      Karyl_Attack2_56: 1624313153
+      Karyl_Attack2_57: 1006679859
+      Karyl_Attack2_58: -722039052
+      Karyl_Attack2_59: 156242298
+      Karyl_Attack2_6: 1733200177
+      Karyl_Attack2_60: -329875591
+      Karyl_Attack2_61: 122785883
+      Karyl_Attack2_62: 828560439
+      Karyl_Attack2_63: -1488143438
+      Karyl_Attack2_64: 1311912731
+      Karyl_Attack2_65: 1638901074
+      Karyl_Attack2_66: 948008392
+      Karyl_Attack2_67: 152760134
+      Karyl_Attack2_68: -802110301
+      Karyl_Attack2_69: -882282311
+      Karyl_Attack2_7: -765937694
+      Karyl_Attack2_70: -434216954
+      Karyl_Attack2_71: 2116231368
+      Karyl_Attack2_72: -1017366053
+      Karyl_Attack2_73: 1926806660
+      Karyl_Attack2_74: -834873636
+      Karyl_Attack2_75: -1442058613
+      Karyl_Attack2_76: -1500773706
+      Karyl_Attack2_77: 2062963626
+      Karyl_Attack2_78: -408774763
+      Karyl_Attack2_79: -595126139
+      Karyl_Attack2_8: -1034285412
+      Karyl_Attack2_80: 594129291
+      Karyl_Attack2_81: -1315368774
+      Karyl_Attack2_82: -1319248747
+      Karyl_Attack2_83: -1066630410
+      Karyl_Attack2_84: 392064770
+      Karyl_Attack2_85: 1001037035
+      Karyl_Attack2_86: -945866457
+      Karyl_Attack2_87: -1799470381
+      Karyl_Attack2_88: -1053831376
+      Karyl_Attack2_89: -1280432354
+      Karyl_Attack2_9: -364314554
+      Karyl_Attack2_90: -1150648307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

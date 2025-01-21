@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 8e9b43cdc23e39549bc8900e86dc6b54
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miyako_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462913b8be849454c80c532129237141
+      internalID: -1212342815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9941df9c7783344a9f65b9a6a06432f
+      internalID: -1125402322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143590fb6aa22ee469474f14474a6559
+      internalID: -1686749743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536f7d7f562fa6145ac292cdf06e09a8
+      internalID: -1755788574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6009f71ba77731e4fa50bd085c98e6e0
+      internalID: -1743695414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67f7de6741fc347919d2bd2a3999d1
+      internalID: -626691588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51abe28038dd3a4693a6010aee2641d
+      internalID: 1454181531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d3c4887b7f40e4985ff963e15493cc
+      internalID: 423264403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704dfb6da56c8cb4aae3e23a2975f194
+      internalID: 1225256809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71ba902f66da4740a8c8466595ee2fd
+      internalID: 342880068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c7c8adeeb9f334ab122186423d6f1f
+      internalID: -1177188987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117a566f1e371144a4ebec0fab84353
+      internalID: 1972000632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d24e2133092ff45bde29fb06e45608
+      internalID: 16352363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01a1392d437fc41839e5f67686968d
+      internalID: -1310852099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47734aa53432c44b8d86b9ce161b6ee
+      internalID: -860373509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a96ade8a6e0bd4789723880c126402
+      internalID: 1619511075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7550ba744f1b748b081c01c3c8a400
+      internalID: -680021925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad273f9158b3f54aa1b6dd3714d0576
+      internalID: -1383387916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1663feefbbb2f14fa74adc3bf77c1a0
+      internalID: 1983172310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ded1a501b003a45aeea8a57b4ea6d3
+      internalID: 1588944210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc415e3b796b4af4fb2d4d564b2f3b72
+      internalID: 1134775857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fddb864767d3945bd36a507056a8fa
+      internalID: 1312165486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f9214d1cbaf2c42bb83468ee736241
+      internalID: 409653399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b12910ccc1e454f8c719d14b15d909
+      internalID: 1125605299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c4f14ad84bb974b98d51a9d090f5d4
+      internalID: -713290958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bab0a3c4ab4ab40aa039c6e025c3fa
+      internalID: 1796073426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16860f1fc7f6bab4081b8573e59efa41
+      internalID: -771248665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfd54418ce70484aadf69d85039422f
+      internalID: -183559806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f502b0619e01489041ec2e98ab6e9
+      internalID: -188387020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd718a5f5d2e1d43a6360b2c10f1ab0
+      internalID: 89828060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cebb3350f817948b9881609f9194dd
+      internalID: -715069119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b95eb4961c958542b0b4a1d6885af14
+      internalID: 71464798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a991ae04d14144b7353f67be7873b
+      internalID: -1333989139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab54fa95ecbc941a4dc6c63117cac6
+      internalID: 1343208492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31877d045c9db4b8f2fbf4ae84828e
+      internalID: 1827474568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56263cac7c6eb64584568c59207e6ea
+      internalID: 1005269470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276fbebcf3af2174496e9cb99e564380
+      internalID: 1291928648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5c154612d84264c8b58edfcefb40ff
+      internalID: 1186570205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b06f514f2c98914f87e76ad14eecb39
+      internalID: 745541237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b47652e50ff45442a63cf63977fbd20
+      internalID: -1821676608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Miyako_Walk_0: -1212342815
+      Miyako_Walk_1: -1125402322
+      Miyako_Walk_10: -1177188987
+      Miyako_Walk_11: 1972000632
+      Miyako_Walk_12: 16352363
+      Miyako_Walk_13: -1310852099
+      Miyako_Walk_14: -860373509
+      Miyako_Walk_15: 1619511075
+      Miyako_Walk_16: -680021925
+      Miyako_Walk_17: -1383387916
+      Miyako_Walk_18: 1983172310
+      Miyako_Walk_19: 1588944210
+      Miyako_Walk_2: -1686749743
+      Miyako_Walk_20: 1134775857
+      Miyako_Walk_21: 1312165486
+      Miyako_Walk_22: 409653399
+      Miyako_Walk_23: 1125605299
+      Miyako_Walk_24: -713290958
+      Miyako_Walk_25: 1796073426
+      Miyako_Walk_26: -771248665
+      Miyako_Walk_27: -183559806
+      Miyako_Walk_28: -188387020
+      Miyako_Walk_29: 89828060
+      Miyako_Walk_3: -1755788574
+      Miyako_Walk_30: -715069119
+      Miyako_Walk_31: 71464798
+      Miyako_Walk_32: -1333989139
+      Miyako_Walk_33: 1343208492
+      Miyako_Walk_34: 1827474568
+      Miyako_Walk_35: 1005269470
+      Miyako_Walk_36: 1291928648
+      Miyako_Walk_37: 1186570205
+      Miyako_Walk_38: 745541237
+      Miyako_Walk_39: -1821676608
+      Miyako_Walk_4: -1743695414
+      Miyako_Walk_5: -626691588
+      Miyako_Walk_6: 1454181531
+      Miyako_Walk_7: 423264403
+      Miyako_Walk_8: 1225256809
+      Miyako_Walk_9: 342880068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

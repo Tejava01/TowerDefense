@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: f04e6bc91132a1841a1c284154cc61cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karyl_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089f6e6294569a74181596491539971f
+      internalID: -1059729419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e3c9da1dbcdb4cb8aff00b89acac9
+      internalID: -898291705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c56d7209dba3d54ebb567320af74807
+      internalID: 1078434079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81b0a8938256d7469d11f95b8382290
+      internalID: -1944670736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405aef2ddf6f384885e71c2578fe070
+      internalID: 284717601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc26cc89bd514b43a03287fef15d04b
+      internalID: 1203283049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a927e7a56bbf74bb8e8ff4f675878c
+      internalID: 2064711236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94393fa5fb03ce94a90a1e6b846b6bcd
+      internalID: 255178736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7117a45f1304c8841baa0af1c3a23597
+      internalID: -1733015621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d6ac4359b4dc3499b6d9c318892975
+      internalID: -1270554200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfadb35481084554392d159b12c0b3dc
+      internalID: 1689102823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6112b5c96956394796d22aa897be4a0
+      internalID: -1802237172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d91e32d324d34aade9c1dae5b5060
+      internalID: -1147371829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9223e34456175540aafc4b8afeacf2f
+      internalID: -1499831143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feb3575ea6a51f4f84eb1f8ff921c74
+      internalID: -2115976468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a2a42164b35244aa2d67632cad7f2b
+      internalID: 1752979424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c5babe943f2334b9f41b7fc18aa918
+      internalID: 1900523726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7eebaba709a3b418939e108bf41d7f
+      internalID: 38889095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ca7215c404a94890deebef3750668
+      internalID: 1504144111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d208bdeb94a77c24e8ba8f67ac3d9cd6
+      internalID: -996610948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f77f86ee8bc44b8b5d90dffc52e9b
+      internalID: 279326439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf4a109e2ed42b40951fc5f6b53e438
+      internalID: 1695564217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c6e13fa397cf64ab17bcf8f6702cee
+      internalID: -1455194301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7361fe84700ac44bb5dc8a00921c7d
+      internalID: -1808734973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb164e801c5dbc34c903a015b67d45ed
+      internalID: -1377668071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05de79a4b077f7141b85871446c3b42d
+      internalID: -1554061838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e142ba13db2004c821f21361b7cd03
+      internalID: 260785971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362225140f8b3a24b869af486a4d5732
+      internalID: -2113099354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb09c994706834db00cdc471a20def
+      internalID: 465686829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af54af64b4243f448ddda397f92b704
+      internalID: -1647330624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71cbf9f17814a54ca478d0f71191a23
+      internalID: 494224472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b5ad5da9e0f442a95c458753052c3
+      internalID: -411136939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef497e803988004d97a202934ed228d
+      internalID: -70546954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09284c5ec345a6546aeef43fdda068fc
+      internalID: -562998577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950ed46b3fc1144885d5b8200804a6a
+      internalID: -2044215828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64681a203bcb82b4e84a804e4e2c8cad
+      internalID: -954152625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aee38f17047344fa17c285add69f29
+      internalID: -1372852274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60e1ca3ade0d841ac8f92e23ef8a16
+      internalID: -1755402939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d9ea3020dfaf46b465c2387111852
+      internalID: 1609647627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddbfac81898a4a428c19854a4813ecb
+      internalID: 1769875138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karyl_Idle_0: -1059729419
+      Karyl_Idle_1: -898291705
+      Karyl_Idle_10: 1689102823
+      Karyl_Idle_11: -1802237172
+      Karyl_Idle_12: -1147371829
+      Karyl_Idle_13: -1499831143
+      Karyl_Idle_14: -2115976468
+      Karyl_Idle_15: 1752979424
+      Karyl_Idle_16: 1900523726
+      Karyl_Idle_17: 38889095
+      Karyl_Idle_18: 1504144111
+      Karyl_Idle_19: -996610948
+      Karyl_Idle_2: 1078434079
+      Karyl_Idle_20: 279326439
+      Karyl_Idle_21: 1695564217
+      Karyl_Idle_22: -1455194301
+      Karyl_Idle_23: -1808734973
+      Karyl_Idle_24: -1377668071
+      Karyl_Idle_25: -1554061838
+      Karyl_Idle_26: 260785971
+      Karyl_Idle_27: -2113099354
+      Karyl_Idle_28: 465686829
+      Karyl_Idle_29: -1647330624
+      Karyl_Idle_3: -1944670736
+      Karyl_Idle_30: 494224472
+      Karyl_Idle_31: -411136939
+      Karyl_Idle_32: -70546954
+      Karyl_Idle_33: -562998577
+      Karyl_Idle_34: -2044215828
+      Karyl_Idle_35: -954152625
+      Karyl_Idle_36: -1372852274
+      Karyl_Idle_37: -1755402939
+      Karyl_Idle_38: 1609647627
+      Karyl_Idle_39: 1769875138
+      Karyl_Idle_4: 284717601
+      Karyl_Idle_5: 1203283049
+      Karyl_Idle_6: 2064711236
+      Karyl_Idle_7: 255178736
+      Karyl_Idle_8: -1733015621
+      Karyl_Idle_9: -1270554200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

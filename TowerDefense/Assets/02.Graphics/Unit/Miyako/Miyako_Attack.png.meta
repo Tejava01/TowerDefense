@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: 034992a8736bc7046953b47cfa121393
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miyako_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41abd1a2b6f3e04c9e2a561d008acf9
+      internalID: 818658218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e3ffd9dbe7dd49bd43777581b944e
+      internalID: -1636908800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb69dda4bbfe3469c89c4fcbabd1f3
+      internalID: -370294063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2ec1a6eed70f741b9d218cc0c2a6c0
+      internalID: -1452003737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866845835beea8b4fab65cbe06d25068
+      internalID: -519549410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1e4074ee8b2c47badd71a6c21c72e
+      internalID: 307269561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38009f74ad23f4197af73ad85ea2c7
+      internalID: -1288906007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aeccfc939b0ff49ad8b78639812af8
+      internalID: 1020510804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be28273eab2d1245a7e225aa963aa55
+      internalID: -677765279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 3024
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad6b3442009022479df280c7b4ffa12
+      internalID: -1796292751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a668c9940ac0b8479667445297d7d7a
+      internalID: 312759581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439763277608544f9d94e8648837aab
+      internalID: 2071565018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484c0157a0f9e6a41826746e308688e2
+      internalID: 29062008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ddceee05f71f749bae7915dd59e61c
+      internalID: 1226659029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1691afe9716f347b6862c88dbb7c11
+      internalID: 828751777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ee8038b658d94ba9eb064a8e961e2
+      internalID: 1167901280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e2de30516804b4aa20b780a25a0e07
+      internalID: 1456044182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b551fefedbbd614e8386b708518ef64
+      internalID: -376686681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d97b910e2cd4408d4f1085f8f4623
+      internalID: 2119007220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 2592
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cefcc5f98ba554eaa33cd0e52b50c7
+      internalID: -329313440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19671a793378064683bfea29cec3354
+      internalID: -1209153160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e2321ca0148c4a99531bc634c663e
+      internalID: 1380086832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6884ec320684d45bf13b5fa762d1f4
+      internalID: 1217252151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3141e67472975c84796e033916a001de
+      internalID: -309022406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3c1b669c3e2184991e25ebd1e5cff5
+      internalID: 1608224793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95151d4fae5c261469ea2d0e6a3548d2
+      internalID: 1883307927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb17d9970d282469ca1816a5d42604
+      internalID: 1028806615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ead697840f7d47be62a0535119ec1
+      internalID: 45844377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e9fdd0c992ad2408999dcaedfa1477
+      internalID: 1949200668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 2160
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb08a31b95061468f4f4ccca133d79
+      internalID: 991707300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f0a73515d3764fbe588ba000fe2f1
+      internalID: -1285208485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d8bd60e0ccb2419d93ab051471f85
+      internalID: -789648440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53e54597b82c6249a3226b259b37b61
+      internalID: 1566840939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3811401f3d10f459549abe7a32e603
+      internalID: -840232134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0081aff846368946953026e2ea35dd1
+      internalID: 177589542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed71d32e504e34f8f64c89cccd79e0
+      internalID: 2081200951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_36
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6fc69afac052643b9b85a7fe0dbfcf
+      internalID: 2103061220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_37
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c236b9479c37246b15339fdcaa4dab
+      internalID: 1216431174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_38
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f856d3b968fe940b1d6f50a1791c65
+      internalID: -706653650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_39
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1728
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a663d42c3cfedbe4a91d113d06e8f52a
+      internalID: 1537942059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed7353b5ee42054ea029c286111d4bb
+      internalID: -667030318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_41
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afdd1485d4964d4fa3ee3d710f1118e
+      internalID: -53168882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_42
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54482fbd778ab5648a7dd71107cdd37e
+      internalID: 268123950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_43
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bee615bf2ea9414291acf4404e6c2c1
+      internalID: -374835432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_44
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fde7ce403d55c4c8c07d8830ed651c
+      internalID: 2033298514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_45
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e75be8b1db069419519c29babd8420
+      internalID: 378694027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_46
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db523e04ab498841bc12eb784f1d116
+      internalID: 1531134918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_47
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce31b5f3fd5eb749906c2544b4fedcd
+      internalID: 1651858947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_48
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b6dd3215081384fbd71b57bc915864
+      internalID: 1430739334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_49
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1debe7413c2e3164686ff3ee3e50ee9e
+      internalID: 746512931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c26d82fd22c7af4e9c1a98be7b689f5
+      internalID: 705302878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_51
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b715df971b88142be8c97360cfec63
+      internalID: 1269811707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_52
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b6487c77e65c743a88c3e694563f4b
+      internalID: -746587065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_53
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506660a0af7d6434b8b5081b66235cf6
+      internalID: 681083394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_54
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850d1d08e4a29d42871755650cc1233
+      internalID: -1253973077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_55
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59de076d8c4034b8f7276d29f54bad
+      internalID: 1463448659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_56
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11919f957b5f0c34c8bfe71f892140f8
+      internalID: -1927796978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_57
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8589dee9cccef42a5352d252d9e7ae
+      internalID: -1541069517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_58
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2debc233bc7739948a4cde690f90fa80
+      internalID: -1713392015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_59
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a09ff475aa12f4d88a27b54b1f9040
+      internalID: -284599776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a897a1aee3c1c4d4080ab8eb89454d96
+      internalID: 462382468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_61
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be74c8647dee443bc9f0a3aa6c3481
+      internalID: 1973569892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_62
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e6fb17e238ce46ae1ffe022798949
+      internalID: -1857614052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_63
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966635ff50093a041bed138b09d7b410
+      internalID: 227451581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_64
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36203a755f00fc9478e8a9f2b3d79b13
+      internalID: 68702546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_65
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a68b02514445a40ba7cb7300f93438
+      internalID: -1409480376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_66
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95276c18ee42a4f9ecebb8ecedb95f
+      internalID: -152228544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_67
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e9c943ad9eca45a4c67571abde928
+      internalID: -1337130668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_68
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3baaf3eda841640984c1f56653f283
+      internalID: 1303016156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_69
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4def17672baaa447965ed17b55e4b0c
+      internalID: -1962090029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c216598cca8f384baa9c1e5eaabe550
+      internalID: -555092800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_71
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b597cd3884d6409d581fca90f18bb
+      internalID: 812899036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_72
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1a6eb25bd407e439bbe4761eba1f1a
+      internalID: -603447946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_73
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2383e086f450034b8494a6fd3f2b74d
+      internalID: -1875353464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_74
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a4872972c2b3a45955efae342db125
+      internalID: -819108089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_75
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00c40887383b2744aba87154073e668
+      internalID: -90016066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_76
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db28186c8ff27545b26b030f2edba93
+      internalID: -1370669390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_77
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d3a704db9bdd4c9e6a32e82cc74aa
+      internalID: -334469595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_78
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6fbd0a7f61aa341b4a23530e8d3aa9
+      internalID: -1226474130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Attack_79
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11efdfb922372749af28cfcd50b38eb
+      internalID: 1553758239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Miyako_Attack_0: 818658218
+      Miyako_Attack_1: -1636908800
+      Miyako_Attack_10: 312759581
+      Miyako_Attack_11: 2071565018
+      Miyako_Attack_12: 29062008
+      Miyako_Attack_13: 1226659029
+      Miyako_Attack_14: 828751777
+      Miyako_Attack_15: 1167901280
+      Miyako_Attack_16: 1456044182
+      Miyako_Attack_17: -376686681
+      Miyako_Attack_18: 2119007220
+      Miyako_Attack_19: -329313440
+      Miyako_Attack_2: -370294063
+      Miyako_Attack_20: -1209153160
+      Miyako_Attack_21: 1380086832
+      Miyako_Attack_22: 1217252151
+      Miyako_Attack_23: -309022406
+      Miyako_Attack_24: 1608224793
+      Miyako_Attack_25: 1883307927
+      Miyako_Attack_26: 1028806615
+      Miyako_Attack_27: 45844377
+      Miyako_Attack_28: 1949200668
+      Miyako_Attack_29: 991707300
+      Miyako_Attack_3: -1452003737
+      Miyako_Attack_30: -1285208485
+      Miyako_Attack_31: -789648440
+      Miyako_Attack_32: 1566840939
+      Miyako_Attack_33: -840232134
+      Miyako_Attack_34: 177589542
+      Miyako_Attack_35: 2081200951
+      Miyako_Attack_36: 2103061220
+      Miyako_Attack_37: 1216431174
+      Miyako_Attack_38: -706653650
+      Miyako_Attack_39: 1537942059
+      Miyako_Attack_4: -519549410
+      Miyako_Attack_40: -667030318
+      Miyako_Attack_41: -53168882
+      Miyako_Attack_42: 268123950
+      Miyako_Attack_43: -374835432
+      Miyako_Attack_44: 2033298514
+      Miyako_Attack_45: 378694027
+      Miyako_Attack_46: 1531134918
+      Miyako_Attack_47: 1651858947
+      Miyako_Attack_48: 1430739334
+      Miyako_Attack_49: 746512931
+      Miyako_Attack_5: 307269561
+      Miyako_Attack_50: 705302878
+      Miyako_Attack_51: 1269811707
+      Miyako_Attack_52: -746587065
+      Miyako_Attack_53: 681083394
+      Miyako_Attack_54: -1253973077
+      Miyako_Attack_55: 1463448659
+      Miyako_Attack_56: -1927796978
+      Miyako_Attack_57: -1541069517
+      Miyako_Attack_58: -1713392015
+      Miyako_Attack_59: -284599776
+      Miyako_Attack_6: -1288906007
+      Miyako_Attack_60: 462382468
+      Miyako_Attack_61: 1973569892
+      Miyako_Attack_62: -1857614052
+      Miyako_Attack_63: 227451581
+      Miyako_Attack_64: 68702546
+      Miyako_Attack_65: -1409480376
+      Miyako_Attack_66: -152228544
+      Miyako_Attack_67: -1337130668
+      Miyako_Attack_68: 1303016156
+      Miyako_Attack_69: -1962090029
+      Miyako_Attack_7: 1020510804
+      Miyako_Attack_70: -555092800
+      Miyako_Attack_71: 812899036
+      Miyako_Attack_72: -603447946
+      Miyako_Attack_73: -1875353464
+      Miyako_Attack_74: -819108089
+      Miyako_Attack_75: -90016066
+      Miyako_Attack_76: -1370669390
+      Miyako_Attack_77: -334469595
+      Miyako_Attack_78: -1226474130
+      Miyako_Attack_79: 1553758239
+      Miyako_Attack_8: -677765279
+      Miyako_Attack_9: -1796292751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

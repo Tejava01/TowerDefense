@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: 382baeae4be0b5c4ca3c7bd3d5bdb638
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miyako_Die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891c42e9dcbfa747a7f7984cc9ae295
+      internalID: -1574889332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f076316d7205ccf40b8f6d1423701dda
+      internalID: 890364006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b562a8ed321b4e88d98e51d00d8a3
+      internalID: -471942628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737cd13db6c8d194ba775d29dcd309f7
+      internalID: -1952403774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_4
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32bfdbc41fa43a42aab511eea0af604
+      internalID: 1375230332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_5
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45be63422809604a9deaec5fa0f2c10
+      internalID: 712855069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_6
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6bd9de987030245bdce01c36e773f0
+      internalID: -246675079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_7
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c4c1e8460de64eae51624170c52a9
+      internalID: 855870001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_8
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871b695b68b1aa4081d4fcd7d6527fa
+      internalID: 484359103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_9
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1296
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea72121726ee3c448c13fbd8c05a67c
+      internalID: 1793250698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58857b50e19c3144fb889c1e02408ce1
+      internalID: 1795274716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1da5a1b69376240999f1f6cab37f7a
+      internalID: -478992303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_12
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268819530980eba468e856fbe0875737
+      internalID: 2114483866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7841ac312e02b54bb43e5e958808f9e
+      internalID: -1948904804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_14
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61211fba993b2e244a84f01b5cb7706d
+      internalID: -730522442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_15
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec82e1d283619749a9284e8e65dd4b3
+      internalID: -268813657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_16
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4d24ea639eca4498dbc0cfbd74361
+      internalID: 1493910616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_17
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1963910091d4344ba2d35df57a9292
+      internalID: 473918584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_18
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a8cc76d11ff9b468a2f50873cbaa1b
+      internalID: -5471560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_19
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 864
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fce712d108daf4b9311bd660b94102
+      internalID: 1828186723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b71cbb60bcb049b0ae04a9f5360dd
+      internalID: -1729562668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171264775bbfa904794da44bf0e9c779
+      internalID: -2005886980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_22
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6dabeaef9f66149b51fb186364996f
+      internalID: -1560064368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_23
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aacbabd2f56a864898e9654c325e720
+      internalID: 126463926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_24
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6223903348208a4cbbf26c0589e1a7e
+      internalID: 273989900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_25
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edfae227422520438484c0eee23ec26
+      internalID: 934626243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_26
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05fa855c6b6d2145b36dd1c686db431
+      internalID: -576189315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_27
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67f68723edd9cf498001a88cefd2d11
+      internalID: 1126637693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_28
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64280a9c79318448ce91bb6ba706bc
+      internalID: 879803078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_29
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 432
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1e42fe02eb53947bcc0ff55fec341a
+      internalID: -62106130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a96c416e0bbb48961d987c766a8dc
+      internalID: 633597385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_31
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3572873f1c3714f40bf833738baa7217
+      internalID: -433946802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_32
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244d7693778b1bf4ca63d33d29b107c0
+      internalID: -1951139277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miyako_Die_33
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 421
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6633b79f45068a94ab6278f81941cbdc
+      internalID: -1713844615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Miyako_Die_0: -1574889332
+      Miyako_Die_1: 890364006
+      Miyako_Die_10: 1795274716
+      Miyako_Die_11: -478992303
+      Miyako_Die_12: 2114483866
+      Miyako_Die_13: -1948904804
+      Miyako_Die_14: -730522442
+      Miyako_Die_15: -268813657
+      Miyako_Die_16: 1493910616
+      Miyako_Die_17: 473918584
+      Miyako_Die_18: -5471560
+      Miyako_Die_19: 1828186723
+      Miyako_Die_2: -471942628
+      Miyako_Die_20: -1729562668
+      Miyako_Die_21: -2005886980
+      Miyako_Die_22: -1560064368
+      Miyako_Die_23: 126463926
+      Miyako_Die_24: 273989900
+      Miyako_Die_25: 934626243
+      Miyako_Die_26: -576189315
+      Miyako_Die_27: 1126637693
+      Miyako_Die_28: 879803078
+      Miyako_Die_29: -62106130
+      Miyako_Die_3: -1952403774
+      Miyako_Die_30: 633597385
+      Miyako_Die_31: -433946802
+      Miyako_Die_32: -1951139277
+      Miyako_Die_33: -1713844615
+      Miyako_Die_4: 1375230332
+      Miyako_Die_5: 712855069
+      Miyako_Die_6: -246675079
+      Miyako_Die_7: 855870001
+      Miyako_Die_8: 484359103
+      Miyako_Die_9: 1793250698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
