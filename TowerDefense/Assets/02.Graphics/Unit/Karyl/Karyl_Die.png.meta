@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: c44d565c6d31dc947a0856102e0d7b68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karyl_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32620cd96a420014e9bd59a3303ba210
+      internalID: -2012627372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3233719ec90a78e43b755ac54defbbaf
+      internalID: -580375064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33188415522b142a2f82a75d9ac0d8
+      internalID: 1764214068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a88129bcb43d194e825a588ba58418a
+      internalID: -930793484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0388374b9f226d4192d671af16fa3ef
+      internalID: -596069942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_5
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f607ee553530134b8c98845b5259004
+      internalID: -1333445564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_6
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdadef963658aa841b9d748af3715de2
+      internalID: 1731510514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_7
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32610374d9a1f134894abf8d00205bff
+      internalID: 1389613058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_8
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1078a95a7130747498cfed8e21963550
+      internalID: 451989261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_9
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 2460
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7e9ba0d1e82b6439bcba9bf1145791
+      internalID: -1495941968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71ec9af126afef459ac0e8409d6b4b0
+      internalID: -699005018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0875034066e16241a4fde8710a49217
+      internalID: 1370770053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_12
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7114c6b7956a63b45bae63fda0373e8b
+      internalID: 2037271929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_13
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d002f8a13048428308fbf7820b648
+      internalID: -1297368984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_14
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a032b9241c865c2459d9ad53b8d977ab
+      internalID: -1630790335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_15
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783f85c2e3af6a48994cf63c1f6177a
+      internalID: -1200318149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_16
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e03dce7863c284ba34f04debf70389
+      internalID: 237070298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_17
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb12c7899be9b74887a5d87184a512d
+      internalID: -1325260730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_18
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb34d61e6842554429a55f6fd6678fe4
+      internalID: 93147111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_19
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 1968
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4dedf0ccc1d874285472bcec0533b6
+      internalID: -1569391231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4086fbafd47eb4a95965932424777a
+      internalID: 915063129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51988a34125009e44878087fb7027c68
+      internalID: 573951647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_22
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d2858cb1bb2c041ba156b4a4d69e82
+      internalID: 157167985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_23
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc9aa12c1ea744f974ef97f8bc9a11
+      internalID: -926753015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_24
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad0b6f5f992874fb7866e0c9adba1b
+      internalID: 675633200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_25
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5780c27bbb8c5449d9767bc3405155
+      internalID: -1739397679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_26
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b6bccb9516df40becdc7cf2d6a6ff
+      internalID: -1856672613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_27
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697447b0d16e8a3419ab0fa9336a441e
+      internalID: -1963663859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_28
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7eb28bb141eb3428c519135f7bc2c1
+      internalID: 2061219248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_29
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 1476
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efa9bfc7cd71ca45b4630da12be4f7c
+      internalID: 482676560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8078eaffdf7959419a4acb101a116d9
+      internalID: -1040961170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db8802d2ef9b74a8952c503418d31f
+      internalID: -857198674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_32
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed39b05763b84e488a6ea43f1245fbf
+      internalID: -425694132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_33
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a34dcaf3cc3af4495b84f6b055a3ac
+      internalID: 868908207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_34
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea912b54fc2954b9d6a1af96b84d22
+      internalID: 1674212712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_35
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270fd87afe39fc45af378735da81b82
+      internalID: -1876044038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_36
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33711d00eb9f98469f80122eb41cb5d
+      internalID: 507129727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_37
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b630388ca6983488591d60239d028b
+      internalID: -1971662450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_38
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da6319998a29848891c97ec581523a
+      internalID: -99983181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_39
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 984
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988d7fc4f46ca9e45ad14626d1f88438
+      internalID: -1003873290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a10bc9e03d7b794bbd1e510261d8312
+      internalID: -193929544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_41
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9d276724ffa84da0e1fd1386299fe
+      internalID: -1011128234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_42
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e10d83bf1b894f4686e6254cb50681b
+      internalID: -1566940448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_43
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51ca255cefc6441a8599d1b4226d39
+      internalID: 441072536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_44
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43573b86d77ab459b27966a4a42a54
+      internalID: 1804725540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_45
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2109253a844a744aed06320494025c
+      internalID: 1759063737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_46
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa6e9dc428ab54298ba75741133458
+      internalID: 1116972360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_47
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2862d13021601e4183ee5ce70445b48
+      internalID: -360465320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_48
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4db106a46c17b4bab331548ec1f81f
+      internalID: -1151001256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_49
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 492
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5b2010cae4ce4a9b21863b419485c
+      internalID: -887941269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b2cfa450030548ab5753ea9395a1d
+      internalID: -1752908000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_51
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc832ed91392cc41bbd9ab69fb1112d
+      internalID: -1773206287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_52
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c4dc5718e4c145afcc45615586b73
+      internalID: 398342053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_53
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb4ca5ffc72dd42abc00d3d74a94e5
+      internalID: 1150415013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_54
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4e982a422f3c440963513171cd6c2e
+      internalID: -10096385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_55
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25680b290a69cd4880c256759164262
+      internalID: 1034256366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_56
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5777e2d7373ef5b459805ef7b61d1ae9
+      internalID: 337864360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_57
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cddd909b496e794884bda2da27ebac2
+      internalID: 465016850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_58
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f720ce4cc7be294780a6900e2f031a2
+      internalID: 337189705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karyl_Dead_59
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 0
+        width: 647
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34a3463c51f8f54a96b9476578bc3fa
+      internalID: -739584771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Karyl_Dead_0: -2012627372
+      Karyl_Dead_1: -580375064
+      Karyl_Dead_10: -699005018
+      Karyl_Dead_11: 1370770053
+      Karyl_Dead_12: 2037271929
+      Karyl_Dead_13: -1297368984
+      Karyl_Dead_14: -1630790335
+      Karyl_Dead_15: -1200318149
+      Karyl_Dead_16: 237070298
+      Karyl_Dead_17: -1325260730
+      Karyl_Dead_18: 93147111
+      Karyl_Dead_19: -1569391231
+      Karyl_Dead_2: 1764214068
+      Karyl_Dead_20: 915063129
+      Karyl_Dead_21: 573951647
+      Karyl_Dead_22: 157167985
+      Karyl_Dead_23: -926753015
+      Karyl_Dead_24: 675633200
+      Karyl_Dead_25: -1739397679
+      Karyl_Dead_26: -1856672613
+      Karyl_Dead_27: -1963663859
+      Karyl_Dead_28: 2061219248
+      Karyl_Dead_29: 482676560
+      Karyl_Dead_3: -930793484
+      Karyl_Dead_30: -1040961170
+      Karyl_Dead_31: -857198674
+      Karyl_Dead_32: -425694132
+      Karyl_Dead_33: 868908207
+      Karyl_Dead_34: 1674212712
+      Karyl_Dead_35: -1876044038
+      Karyl_Dead_36: 507129727
+      Karyl_Dead_37: -1971662450
+      Karyl_Dead_38: -99983181
+      Karyl_Dead_39: -1003873290
+      Karyl_Dead_4: -596069942
+      Karyl_Dead_40: -193929544
+      Karyl_Dead_41: -1011128234
+      Karyl_Dead_42: -1566940448
+      Karyl_Dead_43: 441072536
+      Karyl_Dead_44: 1804725540
+      Karyl_Dead_45: 1759063737
+      Karyl_Dead_46: 1116972360
+      Karyl_Dead_47: -360465320
+      Karyl_Dead_48: -1151001256
+      Karyl_Dead_49: -887941269
+      Karyl_Dead_5: -1333445564
+      Karyl_Dead_50: -1752908000
+      Karyl_Dead_51: -1773206287
+      Karyl_Dead_52: 398342053
+      Karyl_Dead_53: 1150415013
+      Karyl_Dead_54: -10096385
+      Karyl_Dead_55: 1034256366
+      Karyl_Dead_56: 337864360
+      Karyl_Dead_57: 465016850
+      Karyl_Dead_58: 337189705
+      Karyl_Dead_59: -739584771
+      Karyl_Dead_6: 1731510514
+      Karyl_Dead_7: 1389613058
+      Karyl_Dead_8: 451989261
+      Karyl_Dead_9: -1495941968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
